@@ -1,30 +1,48 @@
 # AR-BOMB
 A python tool for sms bombing only Robi and Airtel numbers.
+
 ## Requirements
-- python3 (3.11.4)
+- [python3](https://www.python.org/downloads/)
 - Fast Internet Connection 
+
 ## Module requirements 
-- subprocess
-- halo
-- requests
+- [requests](https://pypi.org/project/requests/)
+- [fake_useragent](https://pypi.org/project/fake-useragent/)
 ## Install Termux
-````
+
+````bash
 pkg up -y
 pkg i git python -y
-git clone https://github.com/illusionghost3/ar-bomb.git
+git clone https://github.com/anbuinfosec/ar-bomb.git
+````
+
+## Install requirements
+````bash
+pip3 install -m requirements.txt
+````
+
+## Run tool
+````bash
 cd ar-bomb
 python main.py
 ````
-# Contact
-Facebook : [Mohammad Alamin](https://www.facebook.com/Illusionghost?mibextid=ZbWKwL)
 
-Telegram : [XYRUS INC](https://t.me/xyrusinc)
+## Screenshots
 
-GitHub : [@illusionghost3](https://github.com/illusionghost3)
+| Banner | Output |
+| :---: | :---: |
+| ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/ar-bomb/1.jpg) | ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/ar-bomb/2.jpg) |
+
+## Contact
+- Facebook : [Mohammad Alamin](https://www.facebook.com/anbuinfosec)
+
+- Telegram : [ANBUINFOSEC OFFICIAL](https://t.me/anbuinfosec_official)
+
+- GitHub : [@anbuinfosec](https://github.com/anbuinfosec)
 
 ### Thanks For Star🙏👨‍💻
-[![Stargazers repo](https://reporoster.com/stars/illusionghost3/ar-bomb)](https://github.com/illusionghost3/ar-bomb/)
+[![Stargazers repo](https://reporoster.com/stars/anbuinfosec/ar-bomb)](https://github.com/anbuinfosec/ar-bomb/)
 
 ### Thanks For Fork 🙏👨‍💻
 
-[![Forkers repo](https://reporoster.com/forks/illusionghost3/ar-bomb)](https://github.com/illusionghost3/ar-bomb/network/members)
+[![Forkers repo](https://reporoster.com/forks/anbuinfosec/ar-bomb)](https://github.com/anbuinfosec/ar-bomb/network/members)
