@@ -13,17 +13,18 @@ A python tool for sms bombing only Robi and Airtel numbers.
 ````bash
 pkg up -y
 pkg i git python -y
+pkg i git -y
 git clone https://github.com/anbuinfosec/ar-bomb.git
+cd ar-bomb
 ````
 
 ## Install requirements
 ````bash
-pip3 install -m requirements.txt
+pip3 install -r requirements.txt
 ````
 
 ## Run tool
 ````bash
-cd ar-bomb
 python main.py
 ````
 
