@@ -1,4 +1,4 @@
-# AR-BOMB
+# mx-sms
 A python tool for sms bombing only Robi and Airtel numbers.
 
 ## Requirements
@@ -15,7 +15,7 @@ pkg up -y
 pkg i git python -y
 pkg i git -y
 git clone https://github.com/anbuinfosec/ar-bomb.git
-cd ar-bomb
+cd mx-sms
 ````
 
 ## Install requirements
@@ -32,18 +32,18 @@ python main.py
 
 | Banner | Output |
 | :---: | :---: |
-| ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/ar-bomb/1.jpg) | ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/ar-bomb/2.jpg) |
+| ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/ms-sms/1.jpg) | ![image](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/mx-sms/2.jpg) |
 
 ## Contact
-- Facebook : [Mohammad Alamin](https://www.facebook.com/anbuinfosec)
+- Facebook : [Ariyan only](https://www.facebook.com/profile.php?id=61578286892262)
 
-- Telegram : [ANBUINFOSEC OFFICIAL](https://t.me/anbuinfosec_official)
+- Telegram : [ARIYAN OFFICIAL](https://t.me/anbuinfosec_official)
 
-- GitHub : [@anbuinfosec](https://github.com/anbuinfosec)
+- GitHub : [@ariyan](https://github.com/anbuinfosec)
 
 ### Thanks For Star🙏👨‍💻
-[![Stargazers repo](https://reporoster.com/stars/anbuinfosec/ar-bomb)](https://github.com/anbuinfosec/ar-bomb/)
+[![Stargazers repo](https://reporoster.com/stars/anbuinfosec/ms-sms)](https://github.com/anbuinfosec/ar-bomb/)
 
 ### Thanks For Fork 🙏👨‍💻
 
-[![Forkers repo](https://reporoster.com/forks/anbuinfosec/ar-bomb)](https://github.com/anbuinfosec/ar-bomb/network/members)
+[![Forkers repo](https://reporoster.com/forks/anbuinfosec/mx-sms)](https://github.com/anbuinfosec/ar-bomb/network/members)
